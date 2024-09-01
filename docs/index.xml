@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://ajithsapa.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2024 12:00:00 -0700</lastBuildDate><atom:link href="https://ajithsapa.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to My Blog</title><link>https://ajithsapa.github.io/posts/welcome-to-my-blog/</link><pubDate>Sat, 24 Aug 2024 12:00:00 -0700</pubDate><guid>https://ajithsapa.github.io/posts/welcome-to-my-blog/</guid><description>Welcome to My Blog Hello and welcome to my blog! I&amp;rsquo;m excited to share my thoughts, experiences, and insights with you.
-What to Expect In this blog, I&amp;rsquo;ll be writing about:
-Artificial Intelligence Sustainability General musings I hope you&amp;rsquo;ll find my posts interesting and informative. Feel free to leave comments and engage in discussions!
-Stay tuned for more content coming soon!</description></item><item><title>From Bottlenecks to Brain-like: The Evolution of Computing Architecture</title><link>https://ajithsapa.github.io/posts/my-first-post/</link><pubDate>Wed, 13 Mar 2024 14:17:36 +0530</pubDate><guid>https://ajithsapa.github.io/posts/my-first-post/</guid><description>Human brain served as the inspiration for neural networks that form the bedrock of the exciting applications we now see in the field of AI. However, it was only an inspiration. The neural networks are limited by the current computing architecture. Whatever developments we have seen after the initial inspiration have not been brain-inspired (not that it is mandatory). There is so much more inspiration to take from the brain which can lead to exponentially more powerful AI.</description></item><item><title>About Me</title><link>https://ajithsapa.github.io/about/</link><pubDate>Tue, 06 Jun 2023 10:00:00 -0700</pubDate><guid>https://ajithsapa.github.io/about/</guid><description>Welcome to my personal website! I’m Ajith, and I’m passionate about AI, sustainability, and the intersections of technology, society, and business. My academic journey started in physics, where I explored astrophysics during my bachelor’s and master’s studies. Later, I pursued a PhD in computational neuroscience, where I researched how communication patterns of individual neurons can influence brain states. I also had the opportunity to apply these computational techniques to urban geography during my PhD.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Aug 2024 12:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Blog</title>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
+      <pubDate>Sat, 24 Aug 2024 12:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
+      <description>Welcome to My Blog Hello and welcome to my blog! I&amp;rsquo;m excited to share my thoughts, experiences, and insights with you.&#xA;What to Expect In this blog, I&amp;rsquo;ll be writing about:&#xA;Artificial Intelligence Sustainability General musings I hope you&amp;rsquo;ll find my posts interesting and informative. Feel free to leave comments and engage in discussions!&#xA;Stay tuned for more content coming soon!</description>
+    </item>
+    <item>
+      <title>From Bottlenecks to Brain-like: The Evolution of Computing Architecture</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Mar 2024 14:17:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Human brain served as the inspiration for neural networks that form the bedrock of the exciting applications we now see in the field of AI. However, it was only an inspiration. The neural networks are limited by the current computing architecture. Whatever developments we have seen after the initial inspiration have not been brain-inspired (not that it is mandatory). There is so much more inspiration to take from the brain which can lead to exponentially more powerful AI.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 06 Jun 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome to my personal website! I’m Ajith, and I’m passionate about AI, sustainability, and the intersections of technology, society, and business. My academic journey started in physics, where I explored astrophysics during my bachelor’s and master’s studies. Later, I pursued a PhD in computational neuroscience, where I researched how communication patterns of individual neurons can influence brain states. I also had the opportunity to apply these computational techniques to urban geography during my PhD.</description>
+    </item>
+  </channel>
+</rss>
