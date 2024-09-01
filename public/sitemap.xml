@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/green_red/</loc>
     <lastmod>2024-08-24T12:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/welcome-to-my-blog/</loc>
+    <loc>http://localhost:1313/green_red/posts/welcome-to-my-blog/</loc>
     <lastmod>2024-08-24T12:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/green_red/posts/my-first-post/</loc>
     <lastmod>2024-03-13T14:17:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/green_red/about/</loc>
     <lastmod>2023-06-06T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/green_red/posts/</loc>
     <lastmod>2023-06-06T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/green_red/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/green_red/tags/</loc>
   </url>
 </urlset>

@@ -2,6 +2,7 @@ baseURL = 'https://ajithsapa.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+publishDir = "docs"  # This will output the site to a 'docs' folder
 
 # Menu configuration
 [menu]
