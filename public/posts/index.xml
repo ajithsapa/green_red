@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/green_red/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Aug 2024 12:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/green_red/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to My Blog</title>
-      <link>http://localhost:1313/green_red/posts/welcome-to-my-blog/</link>
+      <link>http://localhost:1313/posts/welcome-to-my-blog/</link>
       <pubDate>Sat, 24 Aug 2024 12:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/green_red/posts/welcome-to-my-blog/</guid>
+      <guid>http://localhost:1313/posts/welcome-to-my-blog/</guid>
       <description>Welcome to My Blog Hello and welcome to my blog! I&amp;rsquo;m excited to share my thoughts, experiences, and insights with you.&#xA;What to Expect In this blog, I&amp;rsquo;ll be writing about:&#xA;Artificial Intelligence Sustainability General musings I hope you&amp;rsquo;ll find my posts interesting and informative. Feel free to leave comments and engage in discussions!&#xA;Stay tuned for more content coming soon!</description>
     </item>
     <item>
       <title>From Bottlenecks to Brain-like: The Evolution of Computing Architecture</title>
-      <link>http://localhost:1313/green_red/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 13 Mar 2024 14:17:36 +0530</pubDate>
-      <guid>http://localhost:1313/green_red/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>Human brain served as the inspiration for neural networks that form the bedrock of the exciting applications we now see in the field of AI. However, it was only an inspiration. The neural networks are limited by the current computing architecture. Whatever developments we have seen after the initial inspiration have not been brain-inspired (not that it is mandatory). There is so much more inspiration to take from the brain which can lead to exponentially more powerful AI.</description>
     </item>
   </channel>
